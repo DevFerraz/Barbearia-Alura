@@ -1,12 +1,8 @@
-body{
-    background: #CCCCCC;
-}
-
 #banner{
     width: 100%;
 }
 
-h1{
+.centralized-title{
     text-align: center;
 }
 
@@ -24,4 +20,29 @@ strong{
 
 .itens{
     font-style: italic;
+}
+
+.main{
+    background: #CCCCCC;
+    padding: 30px;
+}
+
+.main-title{
+    padding-left: 20px;
+}
+
+.benefits{
+    background: #FFFFFF;
+    padding: 20px;
+}
+
+.benefitimg{
+    width: 50%;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
 }
